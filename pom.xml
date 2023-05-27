@@ -24,13 +24,13 @@
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0bdlik6tnfce-artifactory-primary-0-snapshots</name>
-        <url>https://devopskesav.jfrog.io/artifactory/libs-snapshot</url>
+        <name>jfrog.shainy.io-snapshots</name>
+        <url>http://18.206.150.218:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
-        <name>a0bdlik6tnfce-artifactory-primary-0-releases</name>
-        <url>https://devopskesav.jfrog.io/artifactory/libs-releases</url>
+        <name>jfrog.shainy.io-releases</name>
+        <url>http://18.206.150.218:8081/artifactory/libs-release</url>
     </repository>	
 </distributionManagement>
     
