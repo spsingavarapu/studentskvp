@@ -13,10 +13,10 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         
-        <sonar.host.url>http://18.208.192.95:9000</sonar.host.url>
-        <sonar.organization>Ramagiri</sonar.organization>
+        <sonar.host.url>http://sonarcloud.io</sonar.host.url>
+        <sonar.organization>shainycloud</sonar.organization>
         <sonar.projectKey>Ramagiri</sonar.projectKey>
-        <sonar.login>sqp_6bd02134c417b112c99734bdb5483aa605d1fbe3</sonar.login>
+        <sonar.login>ffb3f3130b32314d5caa1937715b6204cf3c4275</sonar.login>
 
     </properties>
 
